@@ -3,7 +3,7 @@ Use as bookmarklet:
 
 javascript:(function(){
   var s=document.createElement('script');
-  s.src='https://raw.githubusercontent.com/bputo/public/refs/heads/main/p4n.js';
+  s.src='https://bputo.github.io/p4n.js';
   document.body.appendChild(s);
 })();
 */
